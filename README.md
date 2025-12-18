@@ -1,5 +1,4 @@
 # WikiElites
-Dataset and code of Occupational Inheritance and Kinship: An Empirical Study on Historical Social Elites of Wikidata
 This repository contains all documents related to the research on **Occupational Inheritance and Kinship**.  
 The study focuses on analyzing the relationships between notable individuals, their occupations, and how these factors have evolved over time.
 
