@@ -12,7 +12,7 @@ The study focuses on analyzing the relationships between notable individuals, th
 
 
 ### 1. `Q_R_Q_extended.txt`
-**Basic Information:**  
+- **Basic Information:**  
   ```
   Person1_Wikicode | Relationship_Wikicode | Person2_Wikicode
   ```
