@@ -40,7 +40,9 @@ The study focuses on analyzing the relationships between notable individuals, th
   Represents raw data queried from our local wiki database server.  
   Each entry indicates a relationship between two people based on Wikicode identifiers.  
   All individuals are classified as *notable people* according to the research paper:  
-  *“A Cross-Verified Database of Notable People.”*
+  * M. Laouenan, P. Bhargava, J.-B. Eym´eoud, O. Gergaud, G. Plique,
+and E. Wasmer, “A cross-verified database of notable people, 3500bc-
+2018ad,” Scientific Data, vol. 9, no. 1, p. 290, 2022.
 ---
 ## 📊 Visualization Tools
 - **Python 3.x**
