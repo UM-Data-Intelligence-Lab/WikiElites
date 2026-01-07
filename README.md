@@ -21,7 +21,7 @@ The study focuses on analyzing the relationships between notable individuals, th
   - If birth/death dates are missing:
     - Use the **earliest estimated birth date** from the paper.
     - Use the **latest estimated death date** from the paper.
-  - Occupation includes **Level 1**, **Level 2**, and **Level 3** categories.
+  - Occupations are organized in a hierarchical structure with **Level 1** as the top-level category, followed by **Level 2** and **Level 3**, representing increasingly fine-grained classifications.
 
 ---
 
