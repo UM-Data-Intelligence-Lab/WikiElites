@@ -42,6 +42,19 @@ The study focuses on analyzing the relationships between notable individuals, th
   All individuals are classified as *notable people* according to the research paper:  
   *“A Cross-Verified Database of Notable People.”*
 
+## Reference
+
+If you use our code or data, please cite our paper:
+
+```bibtex
+@article{lai2026occupational,
+  title   = {Occupational Inheritance and Kinship: An Empirical Study of Historical Social Elites on Wikidata},
+  author  = {Lai, Sirui and Wang, Liang and Yang, Dingqi},
+  journal = {IEEE Transactions on Computational Social Systems},
+  year    = {2026},
+  doi     = {10.1109/TCSS.2026.3652200}
+}
+
 ---
 ## 📊 Visualization Tools
 - **Python 3.x**
