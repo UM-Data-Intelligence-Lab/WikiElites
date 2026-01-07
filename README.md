@@ -41,6 +41,12 @@ The study focuses on analyzing the relationships between notable individuals, th
   Each entry indicates a relationship between two people based on Wikicode identifiers.  
   All individuals are classified as *notable people* according to the research paper:  
   *“A Cross-Verified Database of Notable People.”*
+---
+## 📊 Visualization Tools
+- **Python 3.x**
+  - `pandas`, `numpy`, `matplotlib`, `seaborn` for data processing and basic visualization.
+- **Tableau**
+  - For advanced visualizations and interactive dashboards.
 
 ## Reference
 
@@ -55,11 +61,7 @@ If you use our code or data, please cite our paper:
   doi     = {10.1109/TCSS.2026.3652200}
 }
 
----
-## 📊 Visualization Tools
-- **Python 3.x**
-  - `pandas`, `numpy`, `matplotlib`, `seaborn` for data processing and basic visualization.
-- **Tableau**
-  - For advanced visualizations and interactive dashboards.
+
+
 
 
