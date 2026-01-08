@@ -2,7 +2,7 @@
 This repository contains all documents related to the research on **Occupational Inheritance and Kinship**.  
 The study focuses on analyzing the relationships between notable individuals, their occupations, and how these factors have evolved over time. Please see the details in our paper below:
 
-- Sirui Lai, Liang Wang, Dingqi Yang*, "Occupational Inheritance and Kinship: An Empirical Study of Historical Social Elites on Wikidata," IEEE Transactions on Computational Social Systems, 2026. DOI: 10.1109/TCSS.2026.3652200
+- Sirui Lai, Liang Wang, Dingqi Yang*, "Occupational Inheritance and Kinship: An Empirical Study of Historical Social Elites on Wikidata," IEEE Transactions on Computational Social Systems (TCSS), 2026.  DOI: 10.1109/TCSS.2026.3652200
 
 
 ---
